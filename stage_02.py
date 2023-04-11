@@ -1,5 +1,6 @@
-with open("artifaction.txt", "r") as f:
+with open("artifacts01.txt", "r") as f:
     text = f.read()
 
 print(text)
+print("end of stage-02")
 print("end of stage-02")

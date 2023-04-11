@@ -1,4 +1,4 @@
-text = "demo for dvc "
+text = "input 01"
 
-with open('artifaction.txt', 'w') as f:
+with open("artifacts01.txt", "w") as f:
     f.write(text)
